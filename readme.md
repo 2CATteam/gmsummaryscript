@@ -1,4 +1,4 @@
-#Welcome to the GroupMe chat summary script!
+# Welcome to the GroupMe chat summary script!
 
 To start, clone this repo onto your computer. In the root directory of the project, create two files, id.json and token.json. 
 
